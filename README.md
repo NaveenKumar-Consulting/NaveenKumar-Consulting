@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Naveen Kumar R | Independent Technical Talent Partner
+**End-to-End Recruitment Consulting | Systems to Application Level Search**
 
-<!--
-**NaveenKumar-Consulting/NaveenKumar-Consulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I partner with high-growth companies and engineering leaders as a dedicated External Talent Acquisition Consultant. I specialize in the full-lifecycle recruitment of elite engineering talent.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Specialized Technical Search
+* **Systems Software:** Low-level programming, kernel, and infrastructure.
+* **Application Level:** Full-stack development (Backend & Frontend).
+* **Product Development:** End-to-end software lifecycle management.
+* **Engineering Leadership:** VPs of Engineering, CTOs, and Technical Leads.
+
+---
+
+### 🌐 Digital Portfolio Project
+I am currently establishing a professional web presence using this GitHub repository and a custom domain (**naveenkumar.us.kg**) to host my professional consulting hub, which includes my recruitment methodology and client partnership frameworks.
+
+---
+
+### 🔗 Professional Links
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/naveenkumarr/)
+
+---
+*Professional verification for nic.us.kg domain registration.*
