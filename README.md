@@ -14,12 +14,9 @@ I partner with high-growth companies and engineering leaders as a dedicated Exte
 ---
 
 ### 🌐 Digital Portfolio Project
-I am currently establishing a professional web presence using this GitHub repository and a custom domain (**naveenkumar.us.kg**) to host my professional consulting hub, which includes my recruitment methodology and client partnership frameworks.
+I am currently establishing a professional web presence using this GitHub repository and a custom domain to host my professional consulting hub, which includes my recruitment methodology and client partnership frameworks.
 
 ---
 
 ### 🔗 Professional Links
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/naveenkumarr/)
-
----
-*Professional verification for nic.us.kg domain registration.*
